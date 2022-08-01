@@ -1,0 +1,13 @@
+body {
+    font-family: 'Outfit', sans-serif;
+    background-image: url(../imagens/fundo-site.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.cabecalho {
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    /* https://youtu.be/4X8GDpx1Xsc?t=3575 */
+}
