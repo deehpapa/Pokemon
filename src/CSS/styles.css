@@ -9,5 +9,15 @@ body {
     background-color: red;
     display: flex;
     justify-content: center;
-    /* https://youtu.be/4X8GDpx1Xsc?t=3575 */
+    align-items: center;
+    gap: 15px;
+    padding-top: 50px;
+}
+
+.cabecalho .titulo {
+    color: #f1ecff;
+}
+
+.cabecalho .pokeball {
+    /* https://youtu.be/4X8GDpx1Xsc?t=4559 */
 }
